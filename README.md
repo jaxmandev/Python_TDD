@@ -96,3 +96,4 @@ class Test(unittest.TestCase):
 
 ### Other Notes
 
+The TestCase class provides several assert methods to check for and report failures. The following table lists the most commonly used emthods(see assert.png for a list)
